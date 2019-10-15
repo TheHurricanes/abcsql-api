@@ -1,4 +1,4 @@
-# abcsql-api [![Build Status](https://github.com/thehurricanes/abcsql-api/workflows/tests/badge.svg)](https://github.com/thehurricanes/abcsql-api/actions)
+# abcsql-api [![Build Status](https://travis-ci.com/thehurricanes/abcsql-api.svg?logo=travis)](https://travis-ci.org/TheHurricanes/runit-api)
 
 ## Routes
 

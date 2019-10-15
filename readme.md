@@ -1,4 +1,4 @@
-# abcsql-api [![Build Status](https://travis-ci.com/thehurricanes/abcsql-api.svg?logo=travis)](https://travis-ci.org/TheHurricanes/runit-api)
+# abcsql-api [![Build Status](https://img.shields.io/travis/thehurricanes/abcsql-api?style=flat-square&logo=travis)](https://travis-ci.org/TheHurricanes/runit-api)
 
 ## Routes
 

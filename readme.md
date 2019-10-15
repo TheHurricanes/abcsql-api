@@ -1,4 +1,4 @@
-# abcsql api [![Build Status](https://github.com/thehurricanes/abcsql-api/workflows/tests/badge.svg)](https://github.com/thehurricanes/abcsql-api/actions)
+# abcsql-api [![Build Status](https://github.com/thehurricanes/abcsql-api/workflows/tests/badge.svg)](https://github.com/thehurricanes/abcsql-api/actions)
 
 ## Routes
 
@@ -19,7 +19,7 @@
 
 - Example request 
 
-```
+```json
 {
 	"username": "jamie",
 	"password": "myPassword"

@@ -13,12 +13,10 @@
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
+    "helmet": "^3.21.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.5",
-    "node-restful": "^0.2.6",
-    "nodemon": "^1.19.3",
-    "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0"
+    "nodemon": "^1.19.3"
   },
   "author": {
     "name": "Carlos Abraham",

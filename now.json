@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "type": "npm",
+  "dotenv": true,
+  "name": "abcsql",
+  "alias": "abcsql",
+  "scale": {
+    "sfo1": {
+      "min": 1,
+      "max": "auto"
+    }
+  }
+}
